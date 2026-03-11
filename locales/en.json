@@ -1,0 +1,12 @@
+{
+  "welcome": "Welcome to the Golf Score Tracker",
+  "greeting": "Hello, Player!",
+  "score": "Your score today",
+  "leaderboard": "Leaderboard",
+  "course": "Golf Course",
+  "round": "Round",
+  "hole": "Hole",
+  "par": "Par",
+  "birdie": "Birdie",
+  "eagle": "Eagle"
+}
